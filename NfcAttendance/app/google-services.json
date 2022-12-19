@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785650546675",
+    "project_id": "nams-5790a",
+    "storage_bucket": "nams-5790a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785650546675:android:ec68b5ad7abb3f7f1a0486",
+        "android_client_info": {
+          "package_name": "com.forappnams.nfcattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785650546675-m1cal3s5jrk6aenr9cp35vm2f49hefiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forappnams.nfcattendance",
+            "certificate_hash": "97e6f2a6da4b007cc72bb35640854190af229821"
+          }
+        },
+        {
+          "client_id": "785650546675-vv4r8m38tah94vss9qgr6n221e6nj1la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGf93y_Vgie1Lcd00KhvziPmxEvNGK1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785650546675-4r7c2eer1samfqvrmc1b44qsi2q0ehtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
